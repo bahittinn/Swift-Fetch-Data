@@ -17,8 +17,7 @@ class detailViewController: UIViewController {
         print(character)
         animeLabel.text = anime
     }
-    //detailviewController
-
+    //detailviewControllerd
      
 
 }
