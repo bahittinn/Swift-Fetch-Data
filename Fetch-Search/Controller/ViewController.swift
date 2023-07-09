@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var tableView: UITableView!
     @IBOutlet weak var searchButton: UIButton!
      
-     
+     //deneme
     override func viewDidLoad() {
         super.viewDidLoad()
         tableView.delegate = self
